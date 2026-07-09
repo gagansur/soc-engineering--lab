@@ -1,5 +1,3 @@
-# soc-engineering-lab
-Enterprise-style Security Operations Center (SOC) portfolio demonstrating security monitoring, detection engineering, incident response, threat hunting, Wazuh SIEM, Python automation, and AI-assisted security workflows.
 # SOC Engineering Lab
 
 > **An enterprise-style Security Operations Center (SOC) portfolio demonstrating practical security monitoring, detection engineering, incident response, threat hunting, automation, and defensive security engineering.**
